@@ -25,3 +25,5 @@
 ## 코드 정리
 - 1. data preprocessing
 - 2. data EDA
+
+끝.
